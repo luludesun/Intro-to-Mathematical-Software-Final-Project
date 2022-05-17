@@ -9,8 +9,8 @@
 
 3. An application of logistic regression to the real world
 
-### Presented material to class
+** Presented material to class
 
-### Led discussion on general linear models 
+** Led discussion on general linear models 
 
-### Conducted mini data analysis project to predict admission rate based on several features 
+** Conducted mini data analysis project to predict admission rate based on several features 
