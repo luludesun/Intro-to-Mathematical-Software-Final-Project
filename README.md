@@ -1,1 +1,1 @@
-# Intro-to-Mathematical-Software-Final-Project
+# Intro to Mathematical Software Final Project
